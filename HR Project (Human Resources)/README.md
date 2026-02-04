@@ -1,3 +1,5 @@
+English version below
+
 
 # Segmentação de Funcionários com Aprendizado Não Supervisionado (K-Means & PCA)
 
